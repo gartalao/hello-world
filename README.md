@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+![gartalao's Stats](https://github-readme-stats.vercel.app/api?username=gartalao&theme=dark&show_icons=true&hide_border=true&count_private=true)
